@@ -1,6 +1,6 @@
 # 2D-Platformer-Game
 
-imple 2D Platformer Game
+Simple 2D Platformer Game
 
 A minimalist 2D platformer built using HTML, CSS, and JavaScript. The goal is to navigate a simple cube through various obstacles to reach the finish line, saving your progress at checkpoints along the way.
 
