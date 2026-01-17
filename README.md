@@ -8,6 +8,12 @@ Cubo Jump is a physics-based 2D platformer built from the ground up using the HT
 
 ---
 
+## Live Demo
+
+https://faraz-ali-1.github.io/2D-Platformer-Game/
+
+---
+
 ## Technical Features
 
 ### Custom Physics Engine
